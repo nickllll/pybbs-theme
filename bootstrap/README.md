@@ -1,5 +1,9 @@
 > pybbs默认主题就是bootstrap，这个说明只作例子参考
 
+## 作者
+
+[@tomoya92](https://github.com/tomoya92)
+
 ## 使用说明
 
 1. 克隆 pybbs 和 pybbs-theme 项目
